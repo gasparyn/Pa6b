@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bipartite Concentration</string>
+    
+     <string-array name="type">
+        <item>New Game</item>
+        <item>Start Game</item>
+        
+    </string-array>
+    
+</resources>
